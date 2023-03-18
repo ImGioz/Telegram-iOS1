@@ -17,7 +17,7 @@ There are several things we require from **all developers** for the moment.
 2. Clone the project from GitHub:
 
 ```
-git clone --recursive -j8 https://github.com/TelegramMessenger/Telegram-iOS.git
+git clone --recursive -j8 https://github.com/ImGioz/Telegram-iOS.git
 ```
 
 3. Download Bazel 4.0.0
